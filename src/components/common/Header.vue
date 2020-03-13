@@ -1,6 +1,6 @@
 <template>
     <div class="header">
-        <div class="logo">后台管理系统</div>
+        <div class="logo">视频监控管理系统</div>
         <div class="login-name"><span>登录人:</span>&nbsp;<span>{{currUserName}}</span></div>
         <div class="login-name"><span>当前部门:</span>&nbsp;<span>{{currDeptName}}</span></div>
         <div class="user-info">

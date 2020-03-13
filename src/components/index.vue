@@ -8,7 +8,7 @@
         <div class="ms-doc">
             <h3>README.md</h3>
             <article>
-                <h1>后台管理系统</h1>
+                <h1>视频监控管理系统</h1>
                 <p>后端基于SpringBoot + SpringMVC + Shiro，前端基于Vue.js 2.x系列 + Element UI 的后台管理系统解决方案</p>
                 <a href="https://github.com/lhrimperial" target="_blank">GitHub源码</a>
                 <h2>前言</h2>
